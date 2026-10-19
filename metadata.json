@@ -1,0 +1,6 @@
+{
+  "name": "KampusCircle - Komunitas & Diskusi Mahasiswa Antar Kampus",
+  "description": "Platform kolaborasi, ruang diskusi minat & topik, audio study lounge, dan peer finder rekan lomba untuk mahasiswa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
